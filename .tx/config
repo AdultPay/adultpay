@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[paycoin.qt-translation-03x]
+file_filter = src/qt/locale/adultpay_<lang>.ts
+source_file = src/qt/locale/adultpay_en.ts
+source_lang = en
